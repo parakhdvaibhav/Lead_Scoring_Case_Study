@@ -1,3 +1,5 @@
+# Lead Scoring Case Study
+
 ## Co-authored by @SankalpSeksaria (https://github.com/sankalpseksaria)
 
 # Problem Statement
