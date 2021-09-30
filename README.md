@@ -17,4 +17,4 @@ Build a logistic regression model to assign a lead score between 0 and 100 to ea
 
 There are some more problems presented by the company which your model should be able to adjust to if the company's requirement changes in the future so you will need to handle these as well. These problems are provided in a separate doc file. Please fill it based on the logistic regression model you got in the first step. Also, make sure you include this in your final PPT where you'll make recommendations.
 
-#### Co-collaborator by @SankalpSeksaria (https://github.com/sankalpseksaria)
+#### Co-collaborator: SankalpSeksaria(https://github.com/sankalpseksaria)
